@@ -1,6 +1,6 @@
 Hi there 👋 I am Annie!
 
-- 🔭 I am cuurently working on building my first website through coding.
+- 🔭 I am curently working on building my first website through coding.
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 📫 How to reach me: info@ladywilde.co.uk
 
