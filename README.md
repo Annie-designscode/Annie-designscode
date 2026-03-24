@@ -5,6 +5,7 @@ Hi there 👋 I am Annie!
 - 📫 How to reach me: info@ladywilde.co.uk
 
 ⚡ Fun fact:
+- I do photography 
 - I am a big Witcher and Zelda BOTW fan 
 - I am learning to code for the first time (2026)
 - My dream is to design websites and apps using code and UI/UX design
